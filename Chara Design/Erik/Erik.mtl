@@ -1,0 +1,86 @@
+# Exported from Fuse 1.3.0
+
+newmtl Beard
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Erik_Beard_diffuse.png
+map_Ks Erik_Beard_specular.png
+bump Erik_Beard_normal.png
+map_Ns Erik_Beard_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Erik_Shoes_diffuse.png
+map_Ks Erik_Shoes_specular.png
+bump Erik_Shoes_normal.png
+map_Ns Erik_Shoes_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Erik_Top_diffuse.png
+map_Ks Erik_Top_specular.png
+bump Erik_Top_normal.png
+map_Ns Erik_Top_gloss.png
+
+newmtl Moustache
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Erik_Moustache_diffuse.png
+map_Ks Erik_Moustache_specular.png
+bump Erik_Moustache_normal.png
+map_Ns Erik_Moustache_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Erik_Hair_diffuse.png
+map_Ks Erik_Hair_specular.png
+bump Erik_Hair_normal.png
+map_Ns Erik_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Erik_Body_diffuse.png
+map_Ks Erik_Body_specular.png
+bump Erik_Body_normal.png
+map_Ns Erik_Body_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Erik_Bottom_diffuse.png
+map_Ks Erik_Bottom_specular.png
+bump Erik_Bottom_normal.png
+map_Ns Erik_Bottom_gloss.png
+
